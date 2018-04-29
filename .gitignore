@@ -1,0 +1,5 @@
+# Byte-compiled 
+*.py[cod]
+
+# Distribution 
+digits/
